@@ -1,4 +1,4 @@
-# Topic 1- Probability Essentials
+# Topic I- Probability Essentials
 
 ## 1. What is Probability?
 Probability is a numerical measure of the likelihood that an event will occur.  
@@ -182,7 +182,7 @@ Var(X) = E(X^2) - [E(X)]^2
 
 ---
 
-# Tppic 2- Data Cleaning and Pre-processing
+# Topic II- Data Cleaning and Pre-processing
 
 ## 1. What is Data Cleaning and Pre-processing?
 Data cleaning and pre-processing refer to the steps taken to **prepare raw data** for analysis or modeling.  
@@ -380,7 +380,7 @@ Converts continuous data into categorical intervals.
 📌 *Tip:* Use examples and Venn diagrams to strengthen understanding.
 
 
-# Topic 3- Ordinary Least Squares (OLS) and Normal Equations
+# Topic III- Ordinary Least Squares (OLS) and Normal Equations
 
 ## 1. What is Ordinary Least Squares (OLS)?
 Ordinary Least Squares (OLS) is a method used to estimate the parameters of a **linear regression model** by minimizing the **sum of squared residuals**.
